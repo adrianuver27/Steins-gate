@@ -1,0 +1,16 @@
+body{ 
+background-image: url(fondo.gif);
+background-repeat: repeat;
+background-size: 1000px 1000px; 
+
+}
+div{
+     color: cornsilk;
+     margin: auto;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ 
+
+
